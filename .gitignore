@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Driver
+geckodriver.log
+
+# Database
+data/*
