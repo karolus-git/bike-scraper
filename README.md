@@ -4,7 +4,7 @@
 
 Finding a bike is complicated... This project helps you by :
 
-* track the prices of your favorites bikes
+* tracking the prices of your favorites bikes
 * storing them in a mongo database
 
 For every website, you will have to create your own scraper. Each scraper has two main methods :
@@ -44,7 +44,7 @@ Launch everything with the following command :
 
 Enjoy and be patient !
 
-> **_INFO:_** You can use DB Compass to analyze your database.
+> **_INFO:_** You can use MongoDB Compass to analyze your database.
 
 
 ## Todos
